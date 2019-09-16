@@ -21,7 +21,7 @@
   "license": "ISC",
   "devDependencies": {},
   "dependencies": {
-    "rget-cli": "^0.0.3"
+    "rget-cli": "^0.0.4"
   },
   "directories": {
     "lib": "lib",

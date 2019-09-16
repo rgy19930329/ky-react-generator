@@ -10,6 +10,7 @@ Using npm:
 npm install -g ky-react-generator
 
 ## 新建项目目录
+mkdir exam && cd exam
 
 ## 在空项目目录下执行初始化
 krgen init
