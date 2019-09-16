@@ -1,0 +1,35 @@
+{
+  "name": "ky-react-generator",
+  "version": "1.0.0",
+  "description": "ky-react-xxx 系列项目脚手架命令",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rgy19930329/ky-react-generator.git"
+  },
+  "bin": {
+    "krgen": "./bin/krgen"
+  },
+  "author": "rgy19930329",
+  "bugs": {
+    "url": "https://github.com/rgy19930329/ky-react-generator/issues"
+  },
+  "homepage": "https://github.com/rgy19930329/ky-react-generator",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {
+    "rget-cli": "^0.0.3"
+  },
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "keywords": [
+    "ky-react-generator",
+    "generator",
+    "cli"
+  ]
+}
