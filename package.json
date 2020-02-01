@@ -1,8 +1,7 @@
 {
   "name": "ky-react-generator",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "ky-react-xxx 系列项目脚手架命令",
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -21,7 +20,7 @@
   "license": "ISC",
   "devDependencies": {},
   "dependencies": {
-    "rget-cli": "^0.0.6"
+    "rget-cli": "^0.0.7"
   },
   "directories": {
     "lib": "lib",
